@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f42a5c4-6d02-4a3a-af93-89d9827af1dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NoughtsAndCrosses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3f42a5c4-6d02-4a3a-af93-89d9827af1dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742123660974</updated>
       <workItem from="1742123662089" duration="719000" />
-      <workItem from="1742691405340" duration="8621000" />
+      <workItem from="1742691405340" duration="8833000" />
     </task>
     <servers />
   </component>
